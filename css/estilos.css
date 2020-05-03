@@ -1,6 +1,10 @@
 /* EFECTOS GENERALES */ 
 .navbar {
-  color: #25a2b7;
+  color: #4C4C4C;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
 }
 
 .intro {
@@ -10,6 +14,36 @@
     font-weight: bold;
     color: #25a2b7;
     padding-top: 0.5rem;
+}
+h2, h1{
+  color: #53B0AE;
+  padding: 3rem;
+}
+.button{
+  color: #53B0AE;
+  padding: 2rem;
+}
+.logo {
+width: 250px;
+height: 100px;
+}
+
+.cuadro{
+  background: #53B0AE;
+}
+
+.imgElla{
+  width: 640px;
+  height: 640px;
+  padding: 3rem;
+}
+
+.row{
+  padding: 2rem;
+}
+
+.texto{
+  padding: 3rem;
 }
 @keyframes aparecer{
     0%{
